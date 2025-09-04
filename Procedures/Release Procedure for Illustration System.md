@@ -25,3 +25,6 @@ tags:
 > Final Updates.
 >  
 - Update KCLIllustrationWebsite (Legacy website) and iKCLife
+  
+###### See: [[Study Session - 2025-09-04]]
+

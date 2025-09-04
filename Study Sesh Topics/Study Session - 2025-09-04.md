@@ -28,4 +28,4 @@ release branch strategy: Jenkins Test env looks for "Release-" branch name
 - Can we build engine / DLL early in sprint instead of release?
 - Can we get rid of iKCLife KCLIllustrationDLL dependency?
 - Can we get some updates to naming conventions?
-- Optimize KCLEngine nuget
+- Optimize KCLEngine nuget?
