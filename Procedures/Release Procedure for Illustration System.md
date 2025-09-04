@@ -19,7 +19,7 @@ tags:
 - Create PR and title it "Merging develop into master for release #"
 - Get approvals for release from the AGP team
 - Merge KCLIllustrationDLL https://github.com/kclife-it/KCLIllustrationDLL dev to master
-- Kick of Jenkins build KCLIllustrationDLL live (Get KD's approval; takes ~5min)
+- Kick off Jenkins build KCLIllustrationDLL live (Get KD's approval; takes ~5min)
 
 ---
 > Final Updates.
