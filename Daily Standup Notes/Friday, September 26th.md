@@ -1,47 +1,36 @@
 ---
 Type: Standup
-Created: "2025-09-10"
+Created: "2025-09-26"
 tags:
   - daily
   - standup
 ---
 ###### 🔙`="[[" + dateformat(date(today) - dur(1day), "yyyy-MM-dd") + "|Yesterday's Notes]]"` 
 ---
-# Daily Standup Notes - (2025-09-10)
-
+# Daily Standup Notes - (2025-09-26)
 ### 🔁Sprint Goals: 
 *What are we aiming for this sprint?* 
-- [ ] 🔁Notifications progress
-- [ ] 🔁Notifications on the server
+- [ ] 🔁
+
 ### ❇️Today's Action Items
 *What can we knock out today? This week?*
-- [ ] ❇️AGP-926
-- [ ] ❇️AGP-1432 - to UAT
-- [ ] ❇️Spikes to done
-- [ ] ❇️AGP-1491 - to done
+- [ ] ❇️
 
 ### 🚫Blockers
 *What is stopping us from progress?*
-- [ ] 🚫monthly reports; bad data - AF
-- [ ] 🚫service broker client needs merged - CA
+- [ ] 🚫
 
 ###### 🎫[Service Desk](https://itkcl.atlassian.net/jira/software/c/projects/AGP/boards/86)
 *What tickets are in our queue today?*
-- [x] 🎫 - [ITS-27421](https://itkcl.atlassian.net/jira/servicedesk/projects/ITS/queues/custom/220/ITS-27421) - Update Columbus Life Trip reports
-- [x] 🎫- [ITS-27292](https://itkcl.atlassian.net/browse/ITS-27292) - blank email; mistake or system issue
-- [x] 🎫- [ITS-27248](https://itkcl.atlassian.net/browse/ITS-27248) - kclic email sending issue
-- [ ] 🎫- ticket swarm: email issue
+- [ ] 🎫
 
 ###### Notes
 ---
 
 
 
-
-
-
-
-
+##### Meetings & Links:
+*What meeting notes can we create today?*
 ```columns
 id: 9E-PkGfrKZ1qfuzVljeOf
 ===
@@ -57,7 +46,8 @@ id: 9E-PkGfrKZ1qfuzVljeOf
 
 ===
 ###### Create Meeting Note
-| [[Grooming Meeting - 2025-09-10]]   | [[Planning Meeting - 2025-09-10]] | [[Showcase Meeting - 2025-09-10]] | [[Retro Meeting - 2025-09-10]] |
-| ----------------------------------- | --------------------------------- | --------------------------------- | ------------------------------ |
-| [[Weekly CAB Meeting - 2025-09-10]] | [[1 on 1 Meeting - 2025-09-10]]   | [[Study Session - 2025-09-10]]    | [[Meeting Notes - 2025-09-10]] |
+| [[Grooming Meeting - 2025-09-26]]   | [[Planning Meeting - 2025-09-26]] | [[Showcase Meeting - 2025-09-26]] | [[Retro Meeting - 2025-09-26]] |
+| --------------------------------- | ------------------------------- | ------------------------------- | ---------------------------- |
+| [[Weekly CAB Meeting - 2025-09-26]] | [[1 on 1 Meeting - 2025-09-26]]   | [[Study Session - 2025-09-26]]    | [[Meeting Notes - 2025-09-26]] |
+
 ```

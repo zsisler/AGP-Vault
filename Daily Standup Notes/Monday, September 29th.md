@@ -1,43 +1,33 @@
 ---
 Type: Standup
-Created: "2025-09-15"
+Created: "2025-09-29"
 tags:
   - daily
   - standup
 ---
 ###### 🔙`="[[" + dateformat(date(today) - dur(1day), "yyyy-MM-dd") + "|Yesterday's Notes]]"` 
-- [ ] ❇️AGP-1432 - to UAT
-- [x] ❇️AGP-921 - to UAT
-- [x] ❇️AGP-766 - to UAT
-- [ ] ❇️AGP-926 - to done
-- [ ] ❇️AGP-1451 - to done
-- [ ] ❇️AGP-1450 - to done
-- [ ] ❇️AGP-1421 - to done
-- [ ] ❇️Spikes to done
-- [ ] 🚫monthly reports; bad data - AF
-- [x] 🚫sandbox access - TS (AGP-1546)
-- [ ] 🚫reproduce 422 error - TS (1558)
-- [ ] 🎫- [ITS-27680](https://itkcl.atlassian.net/jira/servicedesk/projects/ITS/queues/custom/220/ITS-27680) give McQuinn steelers/bears db access
 ---
-# Daily Standup Notes
-(2025-09-15)
+# Daily Standup Notes - (2025-09-29)
 ### 🔁Sprint Goals: 
 *What are we aiming for this sprint?* 
-- [ ] 🔁Notifications progress
+- [ ] 🔁
 
 ### ❇️Today's Action Items
 *What can we knock out today? This week?*
-- [ ] ❇️notifications cards to done
+- [ ] ❇️AGP-1454 to UAT
+- [ ] ❇️AGP-1573 to UAT
 
 ### 🚫Blockers
 *What is stopping us from progress?*
+- [ ] 🚫
 
 ###### 🎫[Service Desk](https://itkcl.atlassian.net/jira/software/c/projects/AGP/boards/86)
 *What tickets are in our queue today?*
+- [ ] 🎫
 
 ###### Notes
 ---
-change forms: contest updates, IOI, content page, company publications, sales videos, 
+
 
 
 ##### Meetings & Links:
@@ -57,8 +47,8 @@ id: 9E-PkGfrKZ1qfuzVljeOf
 
 ===
 ###### Create Meeting Note
-| [[Grooming Meeting - 2025-09-15]]   | [[Planning Meeting - 2025-09-15]] | [[Showcase Meeting - 2025-09-15]] | [[Retro Meeting - 2025-09-15]] |
+| [[Grooming Meeting - 2025-09-29]]   | [[Planning Meeting - 2025-09-29]] | [[Showcase Meeting - 2025-09-29]] | [[Retro Meeting - 2025-09-29]] |
 | --------------------------------- | ------------------------------- | ------------------------------- | ---------------------------- |
-| [[Weekly CAB Meeting - 2025-09-15]] | [[1 on 1 Meeting - 2025-09-15]]   | [[Study Session - 2025-09-15]]    | [[Meeting Notes - 2025-09-15]] |
+| [[Weekly CAB Meeting - 2025-09-29]] | [[1 on 1 Meeting - 2025-09-29]]   | [[Study Session - 2025-09-29]]    | [[Meeting Notes - 2025-09-29]] |
 
 ```
