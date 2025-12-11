@@ -9,7 +9,7 @@ tags:
 - Pending FAST updates
 - various bug fixes and small feature updates
 ###### Notes
-Push notifications page added to mobile
+Push notifications page added to mobile, beta users = OAIC agents
 
 ---
 ### Group
